@@ -34,7 +34,7 @@ PerReg+ achieves **state-of-the-art** results on the [UniTraj Benchmark](https:/
 
 ## Paper
 
-- 📄 [CVPR 2025 Paper (PDF)](link_to_paper) *(link will be added when available)*
+- 📄 [CVPR 2025 Paper (PDF)](https://arxiv.org/pdf/2501.04815) *(link will be added when available)*
 
 ---
 
